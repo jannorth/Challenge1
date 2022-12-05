@@ -4,12 +4,12 @@
     margin: 0;
 }
 
-/* set body background color to grey */
+/* set body background color of page to grey */
 body {
     background-color: #d9dcd6;
 }
 
-/* set header padding to 20px, font to Trebuchet MS, background to blue, text to white */
+/* set header attributes */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,12 +23,11 @@ header h1 {
     font-size: 48px;
 }
 
-/* set text "seo" color to grey */
+/* set text "seo" color to grey to stand out */
 header h1 .seo {
     color: #d9dcd6;
 }
 
-/* set nav elements to right side of header, font Gill Sans, and size 20px */ 
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,7 +36,7 @@ header nav {
     font-size: 20px;
 }
 
- /* position nav list items to right in header with 25 pt margin */
+ /* position nav list items to right in header */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -60,14 +59,14 @@ a {
     background-position: center;
 }
 
-/* set width to 75%, inline block position with a margin of 20px to main container */
+/* set position of main container contents */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* set attributes to main sections */
+/* set attributes to main sections content */
 main section {
     margin-bottom: 20px;
     padding: 50px;
@@ -77,12 +76,10 @@ main section {
     color: #ffffff;
 }
 
-/* set size of images to 200px in main section */
 main section img {
     max-height: 200px;
 }
 
-/* set h2 attributes in main section to 20px margin from the bottom of the container and font size 36 */
 main section h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -112,26 +109,25 @@ aside {
     background-color: #2589bd;
 }
 
-/* ser margin from the bottom to 32px and text to white */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* center align text with a margin of 10px from the bottom */
+/* set text position in aside container */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* set margin to 10px on all sides image and a max width of 150px */
+/* set position of image */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* center the footer text and set font to Trebuchet MS */
+/* center the footer text and set attributes */
 footer {
     padding: 30px;
     clear: both;
@@ -139,7 +135,6 @@ footer {
     text-align: center;
 }
 
-/* set second line font size to 20px */
 footer h2 {
     font-size: 20px;
 }
