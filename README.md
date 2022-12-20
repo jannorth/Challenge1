@@ -34,7 +34,9 @@ THEN I find a concise, descriptive title
 
 ## Usage
 
-![alt text](assets/images/screenshot.png)
+![view of top of seo webpage](assets/images/Challenge.1.png)
+
+![view of bottom of seo webpage](assets/images/Challenge%201.png)
 
 ## Credits
 
